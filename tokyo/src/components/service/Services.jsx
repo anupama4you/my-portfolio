@@ -79,7 +79,7 @@ const Services = () => {
       >
         <div className="tokyo_tm_modalbox_news">
           <button className="close-modal" onClick={toggleModal}>
-            <img src="assets/img/svg/cancel.svg" alt="close icon" />
+            <img src={"assets/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
